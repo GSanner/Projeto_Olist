@@ -12,6 +12,8 @@ O foco da análise recai sobre um conjunto de dados abrangente, composto por inf
 
 Essa abordagem multifacetada visa não apenas avaliar o desempenho da plataforma, mas também fornecer insights profundos sobre o funcionamento da Olist. A análise dos dados reais e anonimizados contribui para a compreensão das dinâmicas do mercado, facilitando a identificação de oportunidades de aprimoramento e tomada de decisões estratégicas no setor.
 
+## Obs: Este projeto faz uso extensivo do Plotly! Embora o GitHub consiga renderizar notebooks Jupyter, é importante notar que os gráficos interativos do Plotly podem não ser totalmente funcionais na visualização direta desta plataforma. Para uma experiência de visualização aprimorada, recomendo replicar o notebook localmente ou explorar o projeto por meio do arquivo HTML disponibilizado, garantindo assim uma visualização mais completa e interativa clique [aqui](https://nbviewer.org/github/GSanner/Projeto_Olist/blob/master/Uma%20Jornada%20pelos%20Dados%20da%20Olist%20-%20interetivo.html).
+
 ## Tópicos
 - Impotando Bibliotecas
 - Importando os dados
@@ -50,9 +52,6 @@ A análise logística revelou uma relação direta entre o tempo de entrega e a 
 A evolução positiva ao longo do tempo no tempo de entrega e nas pontuações médias de avaliação reflete a eficácia das iniciativas implementadas. Em resumo, a análise fornece orientações cruciais para estratégias futuras, visando otimização, aprimoramento da experiência do cliente e crescimento sustentável no mercado de comércio eletrônico.
 
 ------------------
-
-# Obs: Este projeto faz uso extensivo do Plotly! Embora o GitHub consiga renderizar notebooks Jupyter, é importante notar que os gráficos interativos do Plotly podem não ser totalmente funcionais na visualização direta desta plataforma. Para uma experiência de visualização aprimorada, recomendo replicar o notebook localmente ou explorar o projeto por meio do arquivo HTML disponibilizado, garantindo assim uma visualização mais completa e interativa.
-
 
 ## Requisitos e Replicações:
 
