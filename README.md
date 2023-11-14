@@ -1,4 +1,4 @@
-# Projeto: Uma Jornada pelos Dados da Olist
+# Projeto: Uma Jornada pelos Dados da [Olist](https://olist.com/)
 
 <img src="https://d3hw41hpah8tvx.cloudfront.net/images/ilustra_ecossitema_olist_desktop_ff64362482.svg" />
 
@@ -11,6 +11,10 @@ A compreensão do cenário do comércio eletrônico brasileiro é essencial para
 O foco da análise recai sobre um conjunto de dados abrangente, composto por informações de 100 mil pedidos realizados na loja Olist no período de 2016 a 2018. Esses pedidos foram efetuados em vários marketplaces brasileiros, proporcionando uma visão detalhada das transações comerciais. A análise contempla diversas dimensões, incluindo: Características das Vendas e Receitas, Horários das Vendas, Avaliações dos Clientes, Logística e Entrega.
 
 Essa abordagem multifacetada visa não apenas avaliar o desempenho da plataforma, mas também fornecer insights profundos sobre o funcionamento da Olist. A análise dos dados reais e anonimizados contribui para a compreensão das dinâmicas do mercado, facilitando a identificação de oportunidades de aprimoramento e tomada de decisões estratégicas no setor.
+
+## Os Dados
+
+Os dados apresentados nesta análise foram retirados diretamente do Kaggle E podem ser obtidos diretamente [neste link](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
 ## Obs: Este projeto faz uso extensivo do Plotly! Embora o GitHub consiga renderizar notebooks Jupyter, é importante notar que os gráficos interativos do Plotly podem não ser totalmente funcionais na visualização direta desta plataforma. Para uma experiência de visualização aprimorada, recomendo replicar o notebook localmente ou explorar o projeto por meio do arquivo HTML disponibilizado, garantindo assim uma visualização mais completa e interativa clique [aqui](https://nbviewer.org/github/GSanner/Projeto_Olist/blob/master/Uma%20Jornada%20pelos%20Dados%20da%20Olist%20-%20interetivo.html).
 
